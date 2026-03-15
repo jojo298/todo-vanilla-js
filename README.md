@@ -7,7 +7,6 @@ The project demonstrates basic DOM manipulation and JSON usage.
 ## Screenshot
 ![design.png](design.png)
 
-## Live Demo (later)
 
 ## Features
 
