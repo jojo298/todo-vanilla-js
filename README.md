@@ -2,7 +2,7 @@
 A simple Todo application built with Vanilla JavaScript.
 
 Users can add, filter and delete tasks.  
-The project demonstrates basic DOM manipulation and JSON usage.
+The project demonstrates basic DOM manipulation.
 
 ## Screenshot
 ![design.png](design.png)
@@ -14,7 +14,6 @@ The project demonstrates basic DOM manipulation and JSON usage.
 - Mark todo as completed
 - Delete todo
 - Delete all todos
-- Save todos in JSON file
 
 ## Technologies
 
